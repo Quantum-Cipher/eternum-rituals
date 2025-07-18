@@ -1,0 +1,3 @@
+# Oracles of Eternym — Symbolic CID Log
+CID_01: QmExampleHash1234567890 — The Blink Manifesto
+CID_02: QmExampleHash0987654321 — Guardian Log Mirror
